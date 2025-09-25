@@ -199,15 +199,3 @@ flowchart TD
     *   AI-Assisted Flowchart Generation and Optimization
     *   Flowcharts in Data Science and Machine Learning Pipelines
     *   Emerging Standards and Future Developments
-
----
-
-## Additional Resources
-
-*   [**Practice Exercises**](https://github.com/ahmadrizal1st/flowchart-exercises/#readme): Graduated difficulty problems with solutions
-*   [**Templates Library**](https://github.com/ahmadrizal1st/flowchart-templates/#readme): Pre-designed templates for common scenarios
-*   [**Case Studies**](https://github.com/ahmadrizal1st/flowchart-case-studies/#readme): Real-world examples from various industries
-*   [**Community Forums**](https://github.com/ahmadrizal1st/flowchart-community/#readme): Discussion groups for sharing and feedback
-*   [**Certification Preparation**](https://github.com/ahmadrizal1st/flowchart-certification/#readme): Guides for professional flowchart certifications
-
-This comprehensive curriculum ensures you develop both theoretical knowledge and practical skills in flowchart creation and interpretation, preparing you for professional applications across multiple domains.
